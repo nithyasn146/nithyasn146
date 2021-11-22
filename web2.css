@@ -1,0 +1,46 @@
+#aa{
+	text-decoration: none;
+    font-size:16px;
+    margin-top: 10px;
+
+}
+#aa:hover
+{
+	border-bottom: 5px double green;
+	background-color: yellow;
+}
+#ic
+{
+	margin-top: 30px;
+	margin-right: 15px;
+}
+#ie
+{
+	margin-top: 30px;
+	margin-right: 15px;
+}
+#search-icon{
+	background-color: white;
+	border: 0px solid white;
+	margin-top: 5px;
+	margin-right: 10px;
+    
+
+}
+#b1{
+	background-color: white;
+	border: 0px solid white;
+}
+#b2{
+	background-color: white;
+	border: 0px solid white;
+}
+#af
+{
+	margin-left: 50px;
+}
+#btn
+{
+margin-left: 50px;
+background-color: yellow;	
+}
